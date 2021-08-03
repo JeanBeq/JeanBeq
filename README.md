@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi i'm Jbek 👋
+
+**Contact Me**
+- Email📧 --> <jbek.contact@protonmail.com>
+- Discord👨🏼‍💻  --> Jbek#0001
 
 _________________
-**Me contacter**
-- Email📧 --> jbek.contact@protonmail.com
-- Discord👨🏼‍💻  --> Jbek#0001
 
 Here are some ideas to get you started:
 
