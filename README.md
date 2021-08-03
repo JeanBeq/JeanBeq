@@ -1,6 +1,6 @@
 ### Hi i'm Jbek 👋
 
-hello I'm a 17 yo french student who has some notions in Python and who spends his time playing video games and developing for fun.
+Hi I'm a 17 yo french student who has some notions in Python and who spends his time playing video games and developing for fun or whatching movies and stuff.
 
 _________________
 
