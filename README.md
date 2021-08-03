@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-<!--
-**jbekkk/jbekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email📧 --> jbek.contact@protonmail.com
+Discord👨🏼‍💻  --> Jbek#0001
 
 Here are some ideas to get you started:
 
