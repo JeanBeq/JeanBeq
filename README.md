@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Email📧 --> jbek.contact@protonmail.com
-
 Discord👨🏼‍💻  --> Jbek#0001
 
 Here are some ideas to get you started:
