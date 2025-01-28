@@ -22,6 +22,14 @@ const aboutMe = {
   ],
 };
 ```
+## 🛠 Tech Stack
+
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-4D4D4D?style=flat&logo=windows&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ## 📈 Statistiques GitHub
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JeanBeq&theme=dark)](https://git.io/streak-stats)
