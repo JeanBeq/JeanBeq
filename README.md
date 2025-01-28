@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Jean ! 
 ### Développeur passionné ∙ Créatif ∙ Curieux
 
-[![Bannière GitHub](https://github.com/JeanBeq/JeanBeq/blob/main/images/banner.png?raw=true)](https://your-portfolio.com)
+![Cover](https://github.com/JeanBeq/JeanBeq/blob/main/img/banner.jpg)
 
 ## 🚀 À propos de moi
 ```javascript
@@ -26,7 +26,7 @@ const aboutMe = {
 ## 📈 Statistiques GitHub
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JeanBeq&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JeanBeq=JeanBeq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBeq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Connectons-nous !
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-bequilleux)
