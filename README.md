@@ -31,11 +31,6 @@ const aboutMe = {
 ![WSL](https://img.shields.io/badge/-WSL-4D4D4D?style=flat&logo=windows&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 📈 Statistiques GitHub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JeanBeq&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBeq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🤝 Connectons-nous !
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-bequilleux)
 
